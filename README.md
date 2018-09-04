@@ -1,3 +1,3 @@
 # INQ
 SalesForce Monthly INQ report
-Today we started to collaborate
+INQ is now a functional code Do not make any changes to this code, create a branch and work from your branch
