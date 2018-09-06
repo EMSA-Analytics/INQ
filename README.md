@@ -1,3 +1,2 @@
-# INQ
-SalesForce Monthly INQ report
-Today we started to collaborate
+# INQ_SHORT
+This is the current functional code
