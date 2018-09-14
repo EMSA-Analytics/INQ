@@ -1,2 +1,3 @@
 # INQ_SHORT
-This is the current functional code
+This is the base code for SHORTER
+## This code is for development
