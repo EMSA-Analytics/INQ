@@ -1,6 +1,6 @@
 # INQ_MASTER
-THIS is the current TEMPLATE CODE
+## THIS is the source code for Short and Shorter
 SalesForce Monthly INQ report
-INQ is now a functional code Do not make any changes to this code, create a branch and work from your branch
-insert an image?
+
+
 
