@@ -1,0 +1,102 @@
+Ethnicity,IPEDS
+,Unknown
+African American,Black/African American
+"African American, American Indian or Native Alaskan",Two or More Races
+"African American, White",Two or More Races
+American Indian/Alaska Native,American Indian/Alaska Native
+American Indian/Alaskan Native,American Indian/Alaska Native
+Asian/Asian American/Pacific Islander,Asian
+Black/African American,Black/African American
+Brazilian,Hispanic/Latino
+Caucasian,White
+Central American,Hispanic/Latino
+Cuban,Hispanic/Latino
+Hawaiian,Native Hawaiian/Other Pacific Islander
+Hispanic,Hispanic/Latino
+Hispanic/Latino,Hispanic/Latino
+"Hispanic/Latino, White",Hispanic/Latino
+"IndianNative,Black",Two or More Races
+"IndianNative,OtherHispanic",Hispanic/Latino
+"IndianNative,OtherHispanic,White",Hispanic/Latino
+"Latin American, Other",Hispanic/Latino
+Mexican,Hispanic/Latino
+Multi-Ethnic,Two or More Races
+Not specified,Unknown
+Other,Unknown
+OtherHispanic,Hispanic/Latino
+"OtherHispanic,White",Hispanic/Latino
+Puerto Rican,Hispanic/Latino
+PuertoRican,Hispanic/Latino
+White,White
+"African American, American Indian or Native Alaskan, Asian or Pacific Islander",Two or More Races
+"African American, American Indian or Native Alaskan, Asian or Pacific Islander, White",Two or More Races
+"African American, American Indian or Native Alaskan, Hispanic/Latino, White",Hispanic/Latino
+"African American, American Indian or Native Alaskan, White",Two or More Races
+"African American, Asian or Pacific Islander",Two or More Races
+"African American, Asian or Pacific Islander, Hispanic/Latino",Hispanic/Latino
+"African American, Hispanic/Latino",Hispanic/Latino
+"African American, Hispanic/Latino, Hispanic",Hispanic/Latino
+"African American, Hispanic/Latino, White",Hispanic/Latino
+American Indian or Alaska Native,American Indian/Alaska Native
+"American Indian or Alaska Native, Black or African American",Two or More Races
+American Indian or Native Alaskan,American Indian/Alaska Native
+"American Indian or Native Alaskan, Asian or Pacific Islander, Hispanic/Latino",Hispanic/Latino
+"American Indian or Native Alaskan, Hispanic/Latino, Hispanic",Hispanic/Latino
+"American Indian or Native Alaskan, Hispanic/Latino, White, Hispanic",Hispanic/Latino
+"American Indian or Native Alaskan, White",Two or More Races
+AMIND,American Indian/Alaska Native
+ASIAN,Asian
+Asian or Pacific Islander,Asian
+"Asian or Pacific Islander, Hispanic/Latino",Hispanic/Latino
+"Asian or Pacific Islander, Hispanic/Latino, White",Hispanic/Latino
+"Asian or Pacific Islander, White",Two or More Races
+"Asian, White",Two or More Races
+"Asian,Black",Two or More Races
+"Asian,OtherHispanic",Hispanic/Latino
+"Asian,White",Two or More Races
+BLACK,Black/African American
+Black Or African American,Black/African American
+"Black or African American, White",Two or More Races
+"Black,OtherHispanic",Hispanic/Latino
+"Black,PuertoRican,OtherHispanic,White",Hispanic/Latino
+"Black,White",Two or More Races
+Caribbean,Black/African American
+CENTAMER,Hispanic/Latino
+Chicano/Mexican American,Hispanic/Latino
+Colombian,Hispanic/Latino
+Dominican,Hispanic/Latino
+Don't Know/Prefer Not to Answer,Unknown
+Haitian,Black/African American
+HISPA,Hispanic/Latino
+"Hispanic, Other",Hispanic/Latino
+"Hispanic/Latino, Don't Know/Prefer Not to Answer",Hispanic/Latino
+IndianNative,American Indian/Alaska Native
+"IndianNative,Asian",Two or More Races
+"IndianNative,Black,OtherHispanic",Hispanic/Latino
+"IndianNative,Mexican,PuertoRican",Hispanic/Latino
+"IndianNative,Other",Two or More Races
+"IndianNative,OtherHispanic,NoRespond",Hispanic/Latino
+"IndianNative,OtherHispanic,White,Other",Hispanic/Latino
+"IndianNative,PuertoRican",Hispanic/Latino
+"IndianNative,White",Two or More Races
+Korean,Asian
+MEXAMER,Hispanic/Latino
+Multi-Racial,Two or More Races
+N/A,Unknown
+NHISP,Unknown
+NoRespond,Unknown
+NSPEC,Unknown
+"OtherHispanic,NoRespond",Hispanic/Latino
+PACIF,Native Hawaiian/Other Pacific Islander
+PUERTOR,Hispanic/Latino
+"PuertoRican,OtherHispanic",Hispanic/Latino
+"PuertoRican,OtherHispanic,White",Hispanic/Latino
+"PuertoRican,White",Hispanic/Latino
+SOAMER,Hispanic/Latino
+SPANISH,Hispanic/Latino
+White (Non-Hispanic),White
+"White, Don't Know/Prefer Not to Answer",White
+Asian,Asian
+Black,Black/African American
+CUBAN,Hispanic/Latino
+WHITE,White
